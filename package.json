@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run build",
-    "build": "node ./build"
+    "build": "node ./build",
+    "pub": "git add . && git commit -m \"Update\" && git push"
   },
   "author": "Quentin Engles <hollowdoor99@gmail.com> (https://hollowdoor.github.io/)",
   "license": "MIT",

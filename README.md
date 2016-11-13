@@ -19,3 +19,5 @@ Read up on how to use [metalsmith](http://www.metalsmith.io/).
 Run `npm start` to build your website.
 
 When publishing to github pages make sure to select your source as the */docs* folder.
+
+After you've set up a github page, and you're ready to publish you can run `npm run pub` which will `git add`, and `git commit`, and `git push` all in one operation.
