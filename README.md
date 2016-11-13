@@ -5,7 +5,7 @@ To use
 
 Run in the terminal.
 
-`git clone `
+`git clone https://github.com/hollowdoor/a_gitpage_template.git`
 
 The change directory to the cloned a_gitpage_template.
 
