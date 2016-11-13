@@ -1,0 +1,19 @@
+{
+  "name": "a_gitpage_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quentin Engles <hollowdoor99@gmail.com> (https://hollowdoor.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "metalsmith-layouts": "^1.7.0",
+    "metalsmith-markdown": "^0.2.1"
+  }
+}
